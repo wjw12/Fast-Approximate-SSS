@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ChamferBox Assets/CB Discobolus Statue/Demo.unity
+  isLoaded: 1
+  isActive: 1
